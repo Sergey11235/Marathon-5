@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "sup surfing",
+		"path": "D:\\ПРОГРАММИРОВАНИЕ\\ВЁРСТКА ВАДИМ\\sup surfing"
+	},
+	{
+		"name": "marathon-urok-1",
+		"path": "..\\marathon-urok-1"
+	},
+	{
+		"name": "marathon-urok-2",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "marathon-urok-2"
+  }
+}
